@@ -2,7 +2,7 @@ package ru.volkova.array2app.service;
 
 public class Service {
 
-    public void ascending(int [] arr2){
+    public void ascending(int [] arr2) {
             int index = 0;
             while (index < 4) {
                 int num1 = arr2[index];

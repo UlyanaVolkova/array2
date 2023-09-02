@@ -4,7 +4,7 @@ import ru.volkova.array2app.service.Service;
 
 public class _Main {
 
-    public static void main(String [] args){
+    public static void main(String [] args) {
         int [] arr2 = new int[4];
         arr2[0]= 6;
         arr2[1]= -2;
